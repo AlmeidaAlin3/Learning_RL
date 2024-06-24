@@ -1,6 +1,6 @@
 # Reinforcement Learning An Introduction (2nd ed.) - Richard S. Sutton and Andrew G. Barto  
 
-❤️ *Here are my problem set solutions for the RL Book's course.*  
+❤️ *Here are my notes and problem set solutions for the RL Book's course.*  
 
 --
 <!--
