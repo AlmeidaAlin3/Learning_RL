@@ -2,7 +2,6 @@
 
 ❤️ *Here are my notes and problem set solutions for the RL Book's course.*  
 
---
 <!--
 ### **Problem Set #0: Linear Algebra and Multivariable Calculus**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Exercise 1:** Gradients and Hessians](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/ProblemSet0/Exercise1/README.md)  
